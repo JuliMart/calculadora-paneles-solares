@@ -1,3 +1,12 @@
+/**
+ * Calcula la cantidad máxima de paneles solares que caben en un techo.
+ * @param roofWidth - Ancho del techo
+ * @param roofHeight - Alto del techo
+ * @param panelWidth - Ancho del panel solar
+ * @param panelHeight - Alto del panel solar
+ * @returns Número máximo de paneles que caben
+ */
+
 export function calcularPanel(
 roofWidth: number,     // Ancho del techo
 roofHeight: number,    // Alto del techo
