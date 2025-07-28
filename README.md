@@ -1,6 +1,6 @@
 # Calculadora de Paneles Solares (TypeScript + Jest)
 
-Este proyecto resuelve un desafío y que calcula cuántos paneles solares pueden instalarse en un techo rectangular, considerando diferentes orientaciones posibles. La solución está escrita en TypeScript y cuenta con pruebas automatizadas mediante Jest.
+Este proyecto resuelve un desafío que consiste en calcular cuántos paneles solares pueden instalarse en un techo rectangular, considerando diferentes orientaciones posibles. La solución está escrita en TypeScript y cuenta con pruebas automatizadas mediante Jest.
 
 ---
 
