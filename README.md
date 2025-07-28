@@ -67,12 +67,19 @@ Elegî una solución que sea de iteración, fácil de entender y mantener. Evalu
 
 📁 Estructura del proyecto
 calculate_panel_ts/
+
 ├── src/
+
 │   └── calculatePanel.ts         Función principal
+
 ├── test/
+
 │   └── test.ts                   Test con Jest y pruebas manuales
+
 ├── jest.config.mjs               Configuración de Jest con soporte para ES Modules y TypeScript
+
 ├── tsconfig.json                 Configuración de compilador TypeScript
+
 ├── package.json                  Scripts y dependencias
 
 
