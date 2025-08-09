@@ -86,9 +86,9 @@ calculate_panel_ts/
 
 Una posible evolución podrîa incluir variables del mundo real como por ejemplo:
 
-Cambio de orientaciones del panelen este caso solo había horizontal y vertical.
-Inclinación del techo
-Orientación con respecto al sol
+Cambio de orientaciones del panel: en este caso solo había horizontal y vertical.
+Inclinación del techo.
+Orientación con respecto al sol.
 Tipo de material de la superficie, para decidir si es compatible con un montaje x.
 Altitud o pendiente, que podría limitar ciertas configuraciones.
 Restricciones geométricas adicionales como obstáculos, formas irregulares, etc.
